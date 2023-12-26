@@ -1,6 +1,6 @@
 # ml_product_prediction
 
-##What this code about?
+## What this code about?
 
 This code will train a model for next product likely to purchase by user, given user behaviour and interaction data.
  
@@ -12,7 +12,7 @@ This code will train a model for next product likely to purchase by user, given 
 
 4. Deep learning is not possible in this case (amount of data), to get more accurate prediction might be possible using Deep Learning (RNN/LSTM) if more data provided.
 
-##How to Run?
+## How to Run?
 
 This code is created and run using google colab. You can use the same environment to run this code.
 
