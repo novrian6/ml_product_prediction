@@ -9,6 +9,7 @@ This code will train a model for next product likely to purchase by user, given 
 
 2.ML Algorithm: Due to small amount of data had, and understanding the features/columns on the data, the algorithm used is collaborative filtering using SVD (Singular Value Decomposition).
 
+
 3. Deep learning is not possible in this case (amount of data), to get more accurate prediction might be possible using Deep Learning (RNN/LSTM) if more data provided.
 
 How to Run?
